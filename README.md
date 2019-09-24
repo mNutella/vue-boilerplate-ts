@@ -29,10 +29,10 @@ yarn build
 - [X] Folder Structure
 - [X] Demo App
 - [X] Fluid Typography
-- [] Tests
-- [] Linters/Formaters
-- [] CI
-- [] Templates
+- [ ] Tests
+- [ ] Linters/Formaters
+- [ ] CI
+- [ ] Templates
 
 ## Architecture
 
